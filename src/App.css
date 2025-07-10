@@ -1,0 +1,30 @@
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background-color: #fefefe;
+  max-width: 400px;
+  margin: auto;
+}
+
+input {
+  padding: 10px;
+  margin: 10px 0;
+  width: 90%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #0088cc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.qr-section {
+  margin-top: 20px;
+}
